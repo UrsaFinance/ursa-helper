@@ -1,7 +1,7 @@
 {
   "name": "ursa-helper",
   "author": "Ursa Finance",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "devDependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.4",
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
